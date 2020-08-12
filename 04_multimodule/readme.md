@@ -84,7 +84,7 @@ Schreiben Sie sich ein weiteres Shellskript (`run.sh`), dass diese Kommandozeile
 ## IDE-Einbindung
 
 Passen Sie die Einbindung von Tomcat in Ihre IDE (Eclipse etc.) so an, dass Sie Tomcat weiterhin per IDE starten können.
-7
+
 ## Kriterien
 
 Folgende Kriterien sind wichtig:
@@ -99,6 +99,8 @@ Folgende Kriterien sind wichtig:
   * [Dokumentation](http://localhost:8080/docs/) lässt sich aufrufen
   * [Servlet Examples](http://localhost:8080/examples/servlets/) lassen sich aufrufen und funktionieren alls
   * [JSP-Examples](http://localhost:8080/examples/jsp/) lassen sich aufrufen und funktionieren
+
+Die Anzeige der Quelltexte bei den JSP-Examples muss _nicht_ funktionieren, d.h. Sie können sich die Generierung der entsprechenden HTML-Dateien sparen.
 
 
 ## Hinweise
